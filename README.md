@@ -2,7 +2,7 @@
 A really bad version of snake built using [p5.js](https://p5js.org/)
 and was oroginaly made using [mozilla's thimble](https://github.com/mozilla/thimble.mozilla.org)
 
-[a capture of the game](Capture.PNG)
+![a capture of the game](Capture.PNG)
 
 ##if you ever want to contribute
 here's a list of things I need to add if 
